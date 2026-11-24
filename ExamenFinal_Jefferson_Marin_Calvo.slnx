@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ExamenFinal_Jefferson_Marin_Calvo.vcxproj" />
+</Solution>
